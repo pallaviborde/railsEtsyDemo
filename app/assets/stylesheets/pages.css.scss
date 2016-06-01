@@ -1,0 +1,49 @@
+
+@import "bootstrap";
+
+body {
+
+  color: #333333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.download {
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1;
+  }
+
+  h1 {
+    font-size: 3em;
+    letter-spacing: -2px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: normal;
+    color: #0192B5;
+
+  }
+
+  p {
+    font-size: 1.1em;
+    letter-spacing: 1px;
+    line-height: 1.7em;
+    text-align: center;
+    color: #730E15;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .sharable{
+  list-style: none;
+  text-align: center;
+  align: center;
+}
+
+
+  .about_image {
+    background_image:url('https://i4tsk12in2b2y7uts14c528g-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/etsy.jpg');
+    h1, h2 {
+      font-family: guardian-egyptt, georgia, serif;
+    }
+  }
+}
